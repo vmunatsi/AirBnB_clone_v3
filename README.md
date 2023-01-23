@@ -157,6 +157,6 @@ No known bugs at this time.
 Vincent (Vince) Munatsi   
 Nyasha Jerahuni 
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Vince & Nyasha
 ## License
 Public Domain. No copy write protection. 
