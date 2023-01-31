@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Vincent (Vince) Munatsi   
-Nyasha Jerahuni 
+ 
 
-Second part of Airbnb: Vince & Nyasha
+Second part of Airbnb: Vince
 ## License
 Public Domain. No copy write protection. 
